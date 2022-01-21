@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    margin: 500px;
+}
+
+.vasco {
+    display: flex;
+    align-items: center;
+}
+
+.vasco button {
+    padding: 19px;
+    background: blue;
+    color: red;
+}
